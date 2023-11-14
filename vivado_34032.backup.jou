@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Jun  1 10:26:36 2023
+# Process ID: 34032
+# Current directory: C:/Users/vivek/OneDrive/Desktop/Laptop_bkup_033123/Khithani/Masters _Subjects/AHD/Assignments/vk2279_AHD_HW4/rc5_assign
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent30520 C:\Users\vivek\OneDrive\Desktop\Laptop_bkup_033123\Khithani\Masters _Subjects\AHD\Assignments\vk2279_AHD_HW4\rc5_assign\rc5_assign.xpr
+# Log file: C:/Users/vivek/OneDrive/Desktop/Laptop_bkup_033123/Khithani/Masters _Subjects/AHD/Assignments/vk2279_AHD_HW4/rc5_assign/vivado.log
+# Journal file: C:/Users/vivek/OneDrive/Desktop/Laptop_bkup_033123/Khithani/Masters _Subjects/AHD/Assignments/vk2279_AHD_HW4/rc5_assign\vivado.jou
+# Running On: Vivek, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16801 MB
+#-----------------------------------------------------------
+start_gui
+open_project -read_only -part xc7k70tfbv676-1 {C:/Users/vivek/OneDrive/Desktop/Laptop_bkup_033123/Khithani/Masters _Subjects/AHD/Assignments/vk2279_AHD_HW4/rc5_assign/rc5_assign.xpr}
+update_compile_order -fileset sources_1
